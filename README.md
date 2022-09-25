@@ -6,9 +6,6 @@ Searches for a string in FASTA header lines (lines that begin withg '>') and rep
 ## Dependencies
   re
 
-
-
-
 ## Pseudocode outline
 
     # for every line with a '>', we want to get the ID and store that as the key.
